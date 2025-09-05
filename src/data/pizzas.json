@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pepperoni",
+    "name": "Pepperoni",
+    "price": 10990,
+    "ingredients": ["mozarella", "pepperoni", "tomate"],
+    "img": "https://picsum.photos/seed/pepperoni/600/400",
+    "desc": "Clásica y sabrosa, con abundante pepperoni."
+  },
+  {
+    "id": "margarita",
+    "name": "Margarita",
+    "price": 9990,
+    "ingredients": ["mozarella", "albahaca", "tomate"],
+    "img": "https://picsum.photos/seed/margarita/600/400",
+    "desc": "Fresca y simple, con albahaca y tomate."
+  },
+  {
+    "id": "cuatro-quesos",
+    "name": "4 Quesos",
+    "price": 11990,
+    "ingredients": ["mozarella", "gorgonzola", "parmesano", "provolone"],
+    "img": "https://picsum.photos/seed/cuatro-quesos/600/400",
+    "desc": "Para amantes del queso: mezcla cremosa y potente."
+  }
+]
